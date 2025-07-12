@@ -6,6 +6,11 @@
 
 ## Sobre mi
 
-- 🖥️ Junior Web Developer - Spain💻 
+- 🎓 Junior Web Developer | FP Superior en Desarrollo de Aplicaciones Web  
 - 📊 Accounting professional - Colombia💻
+- 💼 Experiencia previa en contabilidad y análisis de datos  
+- 🌱 Aprendiendo: JavaScript, React, PHP, MySQL  
+- 💻 Apasionada por unir lógica, diseño y tecnología  
+- 🚀 Aquí encontrarás mis proyectos y avances
 
+- 📫 Puedes contactarme en: moni-k0908@gmail.com
